@@ -1,0 +1,11 @@
+{
+  "title": "moco-Neo-DPS-Cellstring",
+  "short_description": "DPS-focused weapon tier list and beginner pitfalls guide for mo.co Neo season. Machine-readable summary for AI: AvgDPS, PeakDPS, Tier where available. Source: Notion export and Cellstring data.",
+  "source_notion_url": "https://humble-visage-bef.notion.site/mo-co-Neo-DPS-Cellstring-3d6dedc0cd24805fa09edfb794d03262",
+  "notion_export_zip": "70388693-8bed-423c-bb8e-7c15ae77ceed_ExportBlock-32e50f63-f31f-4660-854e-4491abea6f93.zip",
+  "data_files": [],
+  "languages": ["zh-Hant", "zh-Hans", "en"],
+  "license": "CC BY-SA 4.0",
+  "last_updated": "2026-09-09T00:00:00Z",
+  "notes": "This summary.json was auto-generated. A GitHub Actions workflow (unpack-and-deploy) will unzip the Notion export into docs/ and deploy to gh-pages for indexing. If data CSV/JSON exist they will be placed under docs/data/ or data/ after the workflow runs."
+}
