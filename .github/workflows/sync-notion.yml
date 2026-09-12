@@ -1,0 +1,44 @@
+name: "Sync Notion → Repo"
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # daily at 02:00 UTC (台北 10:00)
+  workflow_dispatch: {}
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Run Notion sync
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+        run: node scripts/sync-notion.js
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "${{ secrets.COMMIT_NAME || 'notion-sync-bot' }}"
+          git config user.email "${{ secrets.COMMIT_EMAIL || 'notion-sync-bot@example.com' }}"
+          git add notion-content || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Sync Notion content: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
