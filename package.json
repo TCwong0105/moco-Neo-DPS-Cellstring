@@ -1,0 +1,12 @@
+{
+  "name": "notion-sync",
+  "version": "1.0.0",
+  "description": "Sync Notion Database into GitHub as Markdown",
+  "main": "scripts/sync-notion.js",
+  "license": "MIT",
+  "dependencies": {
+    "@notionhq/client": "^3.0.0",
+    "notion-to-md": "^3.0.0",
+    "fs-extra": "^11.0.0"
+  }
+}
