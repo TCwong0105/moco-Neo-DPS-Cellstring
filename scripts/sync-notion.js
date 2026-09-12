@@ -28,14 +28,41 @@ async function pageToMarkdown(pageId){
 }
 
 async function run(){
+  const pageIdEnv = process.env.NOTION_PAGE_ID;
   const databaseId = process.env.NOTION_DATABASE_ID;
-  if(!databaseId){
-    console.error('Environment variable NOTION_DATABASE_ID is required.');
+  if(!pageIdEnv && !databaseId){
+    console.error('Environment variable NOTION_PAGE_ID or NOTION_DATABASE_ID is required.');
     process.exit(1);
   }
+
   const outDir = path.join(process.cwd(), 'notion-content');
   await fs.ensureDir(outDir);
 
+  if(pageIdEnv){
+    // Normalize page id (accept with or without dashes)
+    const pageId = pageIdEnv.replace(/[^a-fA-F0-9]/g, '');
+    console.log('Syncing single Notion page:', pageIdEnv);
+    try{
+      const p = await notion.pages.retrieve({ page_id: pageId });
+      const props = p.properties || {};
+      const titleProp = (props.Name && props.Name.title && props.Name.title[0] && props.Name.title[0].plain_text)
+        || (props.Title && props.Title.title && props.Title.title[0] && props.Title.title[0].plain_text)
+        || `page-${pageId}`;
+      const filename = sanitizeFilename(titleProp) + '.md';
+      const filepath = path.join(outDir, filename);
+      const md = await pageToMarkdown(pageId);
+      const lastEdited = p.last_edited_time || p.created_time || '';
+      const frontmatter = `---\ntitle: "${titleProp.replace(/"/g, '\\"')}"\nnotion_id: "${pageIdEnv}"\nlast_edited: "${lastEdited}"\n---\n\n`;
+      await fs.writeFile(filepath, frontmatter + md, 'utf8');
+      console.log('Wrote', filepath);
+    }catch(err){
+      console.error('Failed to convert page', pageIdEnv, err.message || err);
+      process.exit(1);
+    }
+    return;
+  }
+
+  // Fallback: database sync
   console.log('Fetching pages from Notion database:', databaseId);
   const pages = await fetchDatabasePages(databaseId);
   console.log(`Found ${pages.length} pages`);
