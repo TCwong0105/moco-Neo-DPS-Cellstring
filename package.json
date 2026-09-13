@@ -1,12 +1,22 @@
 {
   "name": "notion-sync",
-  "version": "1.0.0",
-  "description": "Sync Notion Database into GitHub as Markdown",
+  "version": "1.0.1",
+  "description": "Sync Notion Database into GitHub as Markdown and unpack Notion export for AI-friendly docs",
   "main": "scripts/sync-notion.js",
   "license": "MIT",
   "dependencies": {
     "@notionhq/client": "^3.0.0",
     "notion-to-md": "^3.0.0",
-    "fs-extra": "^11.0.0"
+    "fs-extra": "^11.0.0",
+    "unzipper": "^0.10.11",
+    "turndown": "^7.1.1",
+    "cheerio": "^1.0.0-rc.12",
+    "axios": "^1.4.0",
+    "glob": "^8.1.0",
+    "gray-matter": "^4.0.3"
+  },
+  "scripts": {
+    "sync-notion": "node scripts/sync-notion.js",
+    "unpack-notion": "node scripts/unpack-and-cleanup.js"
   }
 }
