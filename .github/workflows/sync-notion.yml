@@ -1,4 +1,4 @@
-name: "Sync Notion → Repo"
+name: "Sync Notion  Repo"
 
 on:
   schedule:
@@ -24,10 +24,17 @@ jobs:
         run: npm install --no-audit --no-fund
 
       - name: Run Notion sync
+        if: ${{ secrets.NOTION_TOKEN && (secrets.NOTION_PAGE_ID || secrets.NOTION_DATABASE_ID) }}
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
-        run: node scripts/sync-notion.js
+        run: |
+          set -euxo pipefail
+          node scripts/sync-notion.js
+
+      - name: Skip Notion sync (no secrets)
+        if: ${{ ! (secrets.NOTION_TOKEN && (secrets.NOTION_PAGE_ID || secrets.NOTION_DATABASE_ID)) }}
+        run: echo "Skipping Notion sync: missing NOTION_TOKEN and NOTION_PAGE_ID/NOTION_DATABASE_ID"
 
       - name: Commit and push changes
         run: |
