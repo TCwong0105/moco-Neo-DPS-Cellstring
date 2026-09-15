@@ -10,6 +10,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Ensure docs directory
+        run: |
+          mkdir -p docs
+
+      - name: Copy root markdown to docs (use root source file)
+        run: |
+          cp "【mo co】Neo 新版季末純粹 DPS 武器強度排行與新手避坑指南（結合 Cellstring  3d6dedc0cd24805fa09edfb794d03262.md" docs/neo-dps-cellstring.md || true
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
