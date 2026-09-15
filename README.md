@@ -1,4 +1,5 @@
 # moco-Neo-DPS-Cellstring
+
 Neo DPS Cellstring 攻略 from Notion
 
 <!-- AI / 搜尋 metadata for crawlers -->
@@ -19,14 +20,8 @@ Weapons (EN): Bloodsucker, Squid Blade, Pyro, Techno Fists, Venom Bow, Zapsicle,
   "url": "https://github.com/TCwong0105/moco-Neo-DPS-Cellstring",
   "author": {
     "@type": "Person",
-    "name": "TCwong0105",
+    "name": "TC Wong",
     "url": "https://github.com/TCwong0105"
   }
 }
 ```
-
----
-
-## README
-
-Neo DPS Cellstring 攻略 from Notion
