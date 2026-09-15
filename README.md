@@ -23,7 +23,11 @@ Weapons (EN): Bloodsucker, Squid Blade, Pyro, Techno Fists, Venom Bow, Zapsicle,
   "author": {
     "@type": "Person",
     "name": "TC Wong",
-    "url": "https://github.com"
-  }
+    "url": "https://github.com",
+"author": {
+  "@type": "Person",
+  "name": "TC Wong",
+  "url": "https://github.com"
 }
+
 
