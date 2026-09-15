@@ -25,7 +25,7 @@ jobs:
           python scripts/convert_md.py "docs/neo-dps-cellstring.md" build
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./build
 
@@ -38,4 +38,4 @@ jobs:
       id-token: write
     steps:
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
