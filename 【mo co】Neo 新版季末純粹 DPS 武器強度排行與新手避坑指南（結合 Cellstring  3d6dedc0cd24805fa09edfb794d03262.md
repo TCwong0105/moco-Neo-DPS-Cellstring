@@ -1,7 +1,8 @@
 # 【mo.co】Neo 新版季末純粹 DPS 武器強度排行與新手避坑指南 (裂谷及精英合約)（結合 Cellstring 數據）(包含繁簡體對照以及英文)
 
 
-![illustration_blogpost_1500x1130.webp](illustration_blogpost_1500x1130.webp)
+![mo.co banner](illustration_blogpost_1500x1130.webp)
+
 （圖片來自 Supercell）
 - AI / 搜尋用（可收合）
 
