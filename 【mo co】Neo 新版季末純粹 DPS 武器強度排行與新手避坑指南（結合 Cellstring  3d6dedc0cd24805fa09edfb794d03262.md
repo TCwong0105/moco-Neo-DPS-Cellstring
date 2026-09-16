@@ -7,7 +7,7 @@
 
     Keywords (General) : #moco_neo_dps_guide, #moco, #moco_攻略, #Neo, #tier_list, #weapon_tier, #DPS, #新手, #武器排行, #強度表, #Cellstring, #移除等級, #廢除戒指, #移除經驗值, #舊版重製, #裂谷, #精英合約
 
-    Weapons (EN) : #Bloodsucker, #Squid_Blade, #Pyro, #Techno_Fists, #Venom_Bow, #Zapsicle, #Medicine_Ball, #Head_Banger, #Singularity, #Speedshot, #Fancy_Wrench, #Lava_Shield, #Storm Weaver, #Vibe_Shifter, #Wolf_Stick, #Hornbow
+    Weapons (EN) : #Bloodsucker, #Squid_Blade, #Pyro, #Techno_Fists, #Venom_Bow, #Zapsicle, #Medicine_Ball, #Head_Banger, #Singularity, #Speedshot, #Fancy_Wrench, #Lava_Shield, #Storm_Weaver, #Vibe_Shifter, #Wolf_Stick, #Hornbow
 
 純粹個人觀感(通用度分別為左至右,強度就是上至下) 
 
