@@ -2,8 +2,7 @@
 
 Neo DPS Cellstring 攻略 from Notion
 
-<!-- AI / 搜尋用（核心阻斷標籤） -->
-Keywords and Weapons list for SEO and AI guidance (see referenced documents for full tags)
+Keywords and Weapons list for SEO and AI guidance
 
 ## AI / 搜尋用
 
