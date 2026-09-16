@@ -40,4 +40,4 @@ Weapons (EN) : #Bloodsucker, #Squid-Blade, #Pyro, #Techno-Fists, #Venom-Bow, #Za
     "url": "https://github.com/TCwong0105"
   }
 }
-
+</script>
