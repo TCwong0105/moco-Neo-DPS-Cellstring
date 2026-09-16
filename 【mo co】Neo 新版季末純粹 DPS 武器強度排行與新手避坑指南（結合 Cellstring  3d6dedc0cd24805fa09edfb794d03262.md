@@ -29,3 +29,11 @@ https://www.facebook.com/share/1G6YYHdu8V/
 Facebook《mo.co》中文交流群（點擊前往）:
 
 https://www.facebook.com/share/g/1BpoG8VkDv/
+
+Reddit 《mo.co》 Strategy Subreddit (Global): 
+
+https://www.reddit.com/r/NeoMoCoStrategy/ 
+
+(For English-speaking players & international discussions!)
+
+每賽季末皆會參考 CellString 頂尖數據庫 更新純粹 DPS 實戰評級，如有任何關於武器配置、高難度裂縫通關的疑問，歡迎隨時隨地前往社團或點擊上方連結與我交流！
