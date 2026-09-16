@@ -31,6 +31,10 @@ Facebook《mo.co》中文交流群（點擊前往）:
 
 https://www.facebook.com/share/g/1BpoG8VkDv/
 
+歡迎各位獵人到 巴哈姆特討論串 參與共筆討論。如果你在特定關卡發現更強的武器技巧，歡迎在巴哈留言提供數據喔！巴哈姆特網站:
+
+https://m.gamer.com.tw/forum/C.php?bsn=78936&snA=567&bpage=1&ltype=
+
 Reddit 《mo.co》 Strategy Subreddit (Global): 
 
 https://www.reddit.com/r/NeoMoCoStrategy/ 
