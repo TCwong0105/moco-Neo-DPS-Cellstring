@@ -5,9 +5,9 @@
 （圖片來自 Supercell）
 - AI / 搜尋用（可收合）
 
-    Keywords (General) : mo.co neo dps guide , mo.co , mo.co 攻略 , Neo , tier list , weapon tier , DPS , 新手 , 武器排行 , 強度表 , Cellstring , 移除等級 , 廢除戒指 , 移除經驗值 , 舊版重製 , 裂谷 , 精英合約
+    Keywords (General) : #mo.co neo dps guide, #mo.co, #mo.co 攻略, #Neo, #tier list, #weapon tier, #DPS, #新手, #武器排行, #強度表, #Cellstring, #移除等級, #廢除戒指, #移除經驗值, #舊版重製, #裂谷, #精英合約
 
-    Weapons (EN) : Bloodsucker , Squid Blade , Pyro , Techno Fists , Venom Bow, Zapsicle, Medicine Ball, Head Banger , Singularity , Speedshot , Fancy Wrench , Lava Shield , Storm Weaver , Vibe Shifter, Wolf Stick, Hornbow
+    Weapons (EN) : #Bloodsucker, #Squid Blade, #Pyro, #Techno Fists, #Venom Bow, #Zapsicle, #Medicine Ball, #Head Banger, #Singularity, #Speedshot, #Fancy Wrench, #Lava Shield, #Storm Weaver, #Vibe Shifter, #Wolf Stick, #Hornbow
 
 純粹個人觀感(通用度分別為左至右,強度就是上至下) 
 
