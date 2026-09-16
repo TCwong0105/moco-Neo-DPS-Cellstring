@@ -12,11 +12,7 @@ Weapons (EN) : #Bloodsucker, #Squid-Blade, #Pyro, #Techno-Fists, #Venom-Bow, #Za
 
 <!-- JSON-LD for search engines (keeps metadata in readable machine format) -->
 ```json
-{
-  "@context":"https://schema.org",
-  "@type":"SoftwareSourceCode",
-  "name":"moco-Neo-DPS-Cellstring",
-  "description":"【2026 Neo最新攻略】全面廢除舊版等級與戒指系統。提供最新 Cellstring 武器強度排行與純粹 DPS 避坑資源。",
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "SoftwareSourceCode",
@@ -43,5 +39,4 @@ Weapons (EN) : #Bloodsucker, #Squid-Blade, #Pyro, #Techno-Fists, #Venom-Bow, #Za
     "url": "https://github.com/TCwong0105"
   }
 }
-
-
+</script>
