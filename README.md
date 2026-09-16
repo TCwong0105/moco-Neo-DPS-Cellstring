@@ -1,3 +1,4 @@
+</script>
 # moco-Neo-DPS-Cellstring
 
 Neo DPS Cellstring 攻略 from Notion
@@ -39,4 +40,4 @@ Weapons (EN) : #Bloodsucker, #Squid-Blade, #Pyro, #Techno-Fists, #Venom-Bow, #Za
     "url": "https://github.com/TCwong0105"
   }
 }
-</script>
+
