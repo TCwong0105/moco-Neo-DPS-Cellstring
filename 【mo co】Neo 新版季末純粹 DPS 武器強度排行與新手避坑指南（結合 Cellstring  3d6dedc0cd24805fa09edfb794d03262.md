@@ -16,7 +16,7 @@ Cellstring 數據網站連結（點擊前往）：https://cellstring.com/moco
 
 | 強度 (Tier) | 武器名稱 (通用度高 →  低) | 簡評 / 新手注意事項 |
 | --- | --- | --- |
-| S | 抽血器 / Bloodsucker, 烏賊刃 / Squid Blade, 火花 / Pyro | 輸出可觀,能夠在大部分圖出,沒有明顯弱勢 |
+| S | 抽血器 / Bloodsucker, 火花 / Pyro, 烏賊刃 / Squid Blade | 輸出可觀,能夠在大部分圖出,沒有明顯弱勢 |
 | A | 科技拳套 / Techno Fists, 劇毒長弓 / Venom Bow, 電刃闊劍 / Zapsicle | 輸出足夠,部分圖能夠打出奇效,有少量弱點但可以透過技術彌補 |
 | B | 治療球 / Medicine Ball, 碎顱者 / Head Banger, 奇異點 / Singularity, 速射弓 / Speedshot | 輸出平滑,小部分圖能夠打出奇效,部分能夠透過技術彌補自身數值不足 |
 | C | 酷炫板手 / Fancy Wrench, 熔岩盾 / Lava Shield | 輸出欠佳,部分武器只能對特定王或特定關卡有奇效,數值有待加強 |
