@@ -41,8 +41,13 @@ https://www.reddit.com/r/NeoMoCoStrategy/
 
 (For English-speaking players & international discussions!)
 
-每賽季末皆會參考 CellString 頂尖數據庫 更新純粹 DPS 實戰評級，如有任何關於武器配置、高難度裂縫通關的疑問，歡迎隨時隨地前往社團或點擊上方連結與我交流！
-
 致全體獵人：
 
+每賽季末皆會參考 CellString 頂尖數據庫 更新純粹 DPS 實戰評級，如有任何關於武器配置、高難度裂縫通關的疑問，歡迎隨時隨地前往社團或點擊上方連結與我交流！
+
 本攻略承諾純粹免費且完全開源。如果您覺得這份數據對您的速通或新手之路有所幫助，歡迎在巴哈姆特留言點讚、在 GitHub 點個 Star（星星），或是加入 Facebook 中文社群一起參與討論！對我而言，大家的每一次互動與實測反饋，就是最棒的實質鼓勵，也是支持我持續為全球玩家更新、堅守的最大動力！
+
+💡 **To All Hunters Worldwide:**
+This guide is strictly open-source, non-profit, and free for everyone. If this Cellstring-backed dataset helped you crack a Speedrun or save resources, your engagement is my biggest fuel!
+
+Please consider dropping a comment/like on Bahamut, leaving a **Star 🌟** right here on GitHub, or joining our Facebook community to share your feedback. Every single interaction means the world to me and keeps me moving forward to update this world-leading tier list for players all around the globe! 🎮🔥
