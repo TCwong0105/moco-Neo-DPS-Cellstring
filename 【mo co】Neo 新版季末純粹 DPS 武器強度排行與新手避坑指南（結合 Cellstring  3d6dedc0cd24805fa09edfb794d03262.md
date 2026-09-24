@@ -43,6 +43,28 @@ https://www.reddit.com/r/NeoMoCoStrategy/
 
 (For English-speaking players & international discussions!)
 
+# ☕ 如果想支持我（Buy Me a Coffee）
+
+大家好，我是 **TC Wong**！我一直致力於結合 **Cellstring 數據**，為《mo.co》社群玩家維護最新、最精準的 Neo 季末純粹 DPS 武器強度排行與攻略數據庫（Notion/GitHub）。
+
+說實話，長期跨平台同步維護開源數據與共筆，真的需要耗費極大的體力。如果您覺得我爆肝做出的數據與分析，對您的速通（Speedrun）或新手避坑有所幫助，**歡迎點擊下方連結請我喝杯咖啡（自願贊助）**！
+
+您的每一杯咖啡，都會成為我持續更新、優化排版的最強燃料！感謝各位獵人一路以來的默默支持！🔥
+
+👉 **【請 TC Wong 喝杯咖啡 / 點此支持】**：
+
+buymeacoffee.com/hellotc123g
+
+---
+
+🎨 **頭像與背景圖片版權聲明 / Copyright Notice：**本人頭像及背景圖片原創者為 **「大鉗武神」**。由於此頭像自 2020 年起已作為我個人的社群辨識標誌，為避免粉絲混淆，此平台暫時延用該視覺。*(Original Creator of Profile & Cover Image: 大鉗武神 Pixiv)*
+
+https://www.pixiv.net/users/26596612?fbclid=IwdGRjcAUiOJ1jbGNrBSI4mmV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeus_dTHOe6ncADd7wnJ19r2MGa2wRAiRzlWtkvZy_Z00DiVc9Jw1NUQkqaIk_aem_YYxnlz0HnezJe4YFLtK4HA
+
+---
+
+🌍 **English Version:**Hi, I'm TC Wong! I maintain the "mo.co Neo DPS & Weapon Tier List" database on Notion and GitHub. If my Cellstring-backed data helped crack your Speedrun or save your resources, consider buying me a coffee to support my work. Thank you for your amazing support! ☕
+
 致全體獵人：
 
 每賽季末皆會參考 CellString 頂尖數據庫 更新純粹 DPS 實戰評級，如有任何關於武器配置、高難度裂縫通關的疑問，歡迎隨時隨地前往社團或點擊上方連結與我交流！
