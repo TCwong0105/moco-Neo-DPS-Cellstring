@@ -53,7 +53,7 @@ https://www.reddit.com/r/NeoMoCoStrategy/
 
 👉 **【請 TC Wong 喝杯咖啡 / 點此支持】**：
 
-buymeacoffee.com/hellotc123g
+[![Buy Me A Coffee](https://shields.io)](https://buymeacoffee.com/hellotc123g)
 
 ---
 
