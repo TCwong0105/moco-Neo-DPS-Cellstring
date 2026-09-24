@@ -27,6 +27,8 @@ Cellstring 數據網站連結（點擊前往）：https://cellstring.com/moco
 
 https://www.facebook.com/share/1G6YYHdu8V/
 
+全球社群與共筆討論連結 (Community Links)
+
 Facebook《mo.co》中文交流群（點擊前往）:
 
 https://www.facebook.com/share/g/1BpoG8VkDv/
