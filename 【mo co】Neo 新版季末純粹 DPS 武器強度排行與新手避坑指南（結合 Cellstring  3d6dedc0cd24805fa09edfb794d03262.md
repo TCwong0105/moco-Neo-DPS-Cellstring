@@ -75,3 +75,19 @@ https://www.pixiv.net/users/26596612?fbclid=IwdGRjcAUiOJ1jbGNrBSI4mmV4dG4DYWVtAj
 This guide is strictly open-source, non-profit, and free for everyone. If this Cellstring-backed dataset helped you crack a Speedrun or save resources, your engagement is my biggest fuel!
 
 Please consider dropping a comment/like on Bahamut, leaving a **Star 🌟** right here on GitHub, or joining our Facebook community to share your feedback. Every single interaction means the world to me and keeps me moving forward to update this world-leading tier list for players all around the globe! 🎮🔥
+
+### 💡 版權與數位法律防禦宣告 (Copyright & License)
+
+- **開源授權**：採用 **CC BY-NC-SA 4.0** 授權條款。
+- **轉載規則**：允許自由分享與二創，但須標示作者與原始連結，嚴禁商業盈利。
+- **版權與免責**：商標屬原廠所有，內容僅供參考。
+
+### 🛠️GitHub 專案連結：請參閱原始碼與詳細法律文件。
+
+License:
+
+https://github.com/TCwong0105/moco-Neo-DPS-Cellstring/blob/main/LICENSE
+
+Read me:
+
+https://github.com/TCwong0105/moco-Neo-DPS-Cellstring/blob/main/README.md
