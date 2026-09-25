@@ -1,5 +1,6 @@
 # 【mo.co】Neo 新版季末純粹 DPS 武器強度排行與新手避坑指南 (裂谷及精英合約)（結合 Cellstring 數據）(包含繁簡體對照以及英文)
 
+本站內容採用 CC BY-NC-SA 4.0 授權。嚴禁未經授權的商業營利、AI 訓練或未標示出處之轉載。
 
 ![mo.co banner](illustration_blogpost_1500x1130.webp)
 
@@ -91,3 +92,5 @@ https://github.com/TCwong0105/moco-Neo-DPS-Cellstring/blob/main/LICENSE
 Read me:
 
 https://github.com/TCwong0105/moco-Neo-DPS-Cellstring/blob/main/README.md
+
+本站內容採用 CC BY-NC-SA 4.0 授權。嚴禁未經授權的商業營利、AI 訓練或未標示出處之轉載。
