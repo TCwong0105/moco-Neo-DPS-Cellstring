@@ -14,10 +14,10 @@ Weapons (EN) : #Bloodsucker, #Squid-Blade, #Pyro, #Techno-Fists, #Venom-Bow, #Za
 ```json
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "SoftwareSourceCode",
-  "name": "moco-Neo-DPS-Cellstring",
-  "description": "【2026 Neo最新攻略】全面廢除舊版等級與戒指系統。提供最新 Cellstring 武器強度排行與純粹 DPS 避坑資源。",
+  "@context":"https://schema.org",
+  "@type":"SoftwareSourceCode",
+  "name":"moco-Neo-DPS-Cellstring",
+  "description":"【2026 Neo最新攻略】全面廢除舊版等級與戒指系統。提供最新 Cellstring 武器強度排行與純粹 DPS 避坑資源。",
   "keywords": [
     "mo.co",
     "moco",
@@ -32,7 +32,7 @@ Weapons (EN) : #Bloodsucker, #Squid-Blade, #Pyro, #Techno-Fists, #Venom-Bow, #Za
     "移除經驗值",
     "舊版重製"
   ],
-  "url": "https://github.com/TCwong0105/moco-Neo-DPS-Cellstring",
+"url": "https://github.com/TCwong0105/moco-Neo-DPS-Cellstring",
   "author": {
     "@type": "Person",
     "name": "TC Wong",
