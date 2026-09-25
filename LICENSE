@@ -1,2 +1,1 @@
-為符合 GitHub 的 CC 條款自動辨識機制，您需要貼上包含完整的 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 官方免責聲明、授權條款全文、版權宣告（Copyright (c) 2026 TC Wong）以及您的中文授權說明。由於授權全文較長，請參考相關原始文件以獲取完整的標準文字內容。
-本專案採用「創用 CC 姓名標示-非商業性-相同方式分享 4.0 國際授權條款」進行數位法律防禦，包含姓名標示、非商業性及相同方式分享三大條件，並註明原廠商標與第三方素材之版權歸屬。
+為符合 GitHub 的 CC 授權辨識機制並通過審核，請在 LICENSE 檔案中完整貼上包含 SPDX 識別碼、涵蓋 Section 1 至 Section 8 標準條文結構的 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License 內容，以及下方標註作者與原廠權利歸屬的中文說明聲明。您可以直接參考並複製相關的完整授權條文內容。
