@@ -21,7 +21,8 @@ Cellstring 數據網站連結（點擊前往）：https://cellstring.com/moco
 | A | 科技拳套 / Techno Fists, 劇毒長弓 / Venom Bow, 電刃闊劍 / Zapsicle | 輸出足夠,部分圖能夠打出奇效,有少量弱點但可以透過技術彌補 |
 | B | 治療球 / Medicine Ball, 碎顱者 / Head Banger, 奇異點 / Singularity, 速射弓 / Speedshot | 輸出平滑,小部分圖能夠打出奇效,部分能夠透過技術彌補自身數值不足 |
 | C | 酷炫板手 / Fancy Wrench, 熔岩盾 / Lava Shield | 輸出欠佳,部分武器只能對特定王或特定關卡有奇效,數值有待加強 |
-| D | 風暴編織者 / Storm Weaver, 心情轉換器 / Vibe Shifter, 惡狼利齒 / Wolf Stick, 獸角弓 / Hornbow | 輔助類別武器,一般如果想追逐時數更短強力不建議使用 |
+| D | 風暴編織者 / Storm Weaver, 心情轉換器 / Vibe Shifter, 惡狼利齒 / Wolf Stick, 獸角弓 / Hornbow | 純輔助與功能性類別武器。雖在裂谷小怪或團隊中有特定實戰機制（如風暴編織者聚怪、心情轉換器增益），但因本表純粹綁定 Cellstring 極限 DPS 與 Speedrun 秒數，故不建議作為追逐極速通關的主力武器。風暴編織者在需要強力群體控制時才有用
+(這個位置排名不分先後,差不多一樣弱) |
 
 
 本站由 《mo.co》中文交流群 成員 TC Wong (點擊前往我的 Facebook) 獨家整理與維護。
